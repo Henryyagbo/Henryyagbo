@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Henryyagbo
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript and css
+- 👋 Hi, I’m Henry Agbo
+- 👀 I’m interested in Java
+- 🌱 I’m currently working as a Java developer 
 - 💞️ I’m looking to collaborate on special projects
 - 📫 How to reach me ... agboh44@gmail.com
 
