@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Henry Agbo
-- 👀 I’m interested in Java
-- 🌱 I’m currently working as a Java developer 
+- 👋 Hi, I’m Henry Agbo web dev is shiit so i moved to DevOps
+- 👀 I’m interested in DevOps
 - 💞️ I’m looking to collaborate on special projects
-- 📫 How to reach me ... agboh44@gmail.com
+- 📫 How to reach me ... henryagbo.net@gmail.com
 
 <!---
 Henryyagbo/Henryyagbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
