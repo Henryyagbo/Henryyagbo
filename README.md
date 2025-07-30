@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Henry Agbo web dev is shiit so i moved to DevOps
-- 👀 I’m interested in DevOps
-- 💞️ I’m looking to collaborate on special projects
+- 👋 Hi, I’m Henry Agbo 
+- 👀 I’m interested in Web Dev/DevOps
+- 💞️ Every project i work on is very special to me
 - 📫 How to reach me ... henryagbo.net@gmail.com
 
 <!---
